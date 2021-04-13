@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5897-5A4A
+
+ Directory of E:\ansible-master
+
+13.04.2021  11:37    <DIR>          .
+13.04.2021  11:37    <DIR>          ..
+13.04.2021  11:37                 0 file1.txt
+13.04.2021  11:35                16 README.md
+               2 File(s)             16 bytes
+               2 Dir(s)  27ÿ500ÿ097ÿ536 bytes free
